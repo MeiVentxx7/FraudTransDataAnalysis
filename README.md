@@ -23,7 +23,7 @@ This project aims to provide key insights and discover correlations between cert
 
 ### Tools
 
-MS SQL Server  
+- MS SQL Server  
 &ensp;
 
 ### Steps
